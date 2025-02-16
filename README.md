@@ -63,7 +63,8 @@ Edit `config.py` to customize the following settings:
 ## install ffmpeg on Windows os
 <details>
   <summary>How to install ffmpeg on Windows</summary>
-  1. **Download FFmpeg**:
+   
+  1. Download FFmpeg:
    - Go to https://github.com/BtbN/FFmpeg-Builds/releases
    - Download the latest "ffmpeg-master-latest-win64-gpl.zip"
 
