@@ -94,6 +94,9 @@ After installation, restart your os. The pydub warning should be resolved.
 
 </details>
 
+## Backend
+
+You can utilize the backend code written in PHP, which also uses JavaScript to summarize the text and display it on a web page. This allows you to save the Markdown output as a Microsoft DOCX file, making it ideal for reading.
 
 ## Contributing
 
